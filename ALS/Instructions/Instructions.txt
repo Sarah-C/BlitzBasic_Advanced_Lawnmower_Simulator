@@ -1,0 +1,97 @@
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Welcome to Advanced Lawnmower Simulator!
+
+An entry for the Diverse Developments'
+Lame Game Competition!
+
+http://www.diversedev.com/
+
+
+
+Instructions...
+
+Your task is to guide Morris the Mower Man
+around consecutively harder gardens.
+
+His job is to mow lawns, and nothing will stand
+in his way! Especially all the stones that are
+scattered around them.
+
+To start a game, press either key '1' or '2'.
+This will select one of two mowers, each with
+it's own way of controling it.
+
+To complete a lawn, Morris must cut at least
+30% of the lawn before parking the mower in the
+shed at the bottom of the lawn. Use your wits
+to figure out how much you have cut, just as in
+real life, there's no counter letting you know
+just how much you have cut!
+
+When a lawn has been sucessfully cut, Morris
+will move on to a much harder lawn, where more
+stones wait, ready to pounce on his hovermower!
+
+See how many lawns YOU can cut before the
+going gets too tough!
+
+
+
+Keys...
+
+Use your MOUSE to control Morris and his mower:
+
+Left / Right : Turn the mower left/right
+Left Button  : Walk forward
+Right Button : Turn Mower On/Off
+
+You CAN walk over stones when the mower is OFF,
+but if the mower is on, then you will damage
+the blade and put Morris out of action!
+
+GOOD LUCK!
+
+
+
+Information:
+
+This game is written in Blitz-Basic after 2
+days of studying the online manuals.
+
+It is completely open source, rip it, hack it
+use the graphics and code, do whatever you
+want, call it your own. But please mention me!
+I love attention!
+
+Audio       : (C) http://www.thewavplace.com
+Graphics/Art: (C) Me and PSP 7
+Game Engine : (C) Me
+Physics Eng : (C) Me
+Intro MIDI  : (C) VRMan (Screensavers)
+Game Concept: (C) D. Macdonald (1987)
+Font Engine : (C) Ian Duff
+Font GFX    : (C) Ian Duff
+
+All the source code is included in the
+directory the main EXE is in, and details of
+Mr Duff's code and (C) can be found there.
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
